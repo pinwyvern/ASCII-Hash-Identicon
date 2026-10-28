@@ -1,2 +1,22 @@
-# ASCII-Hash-Identicon
-Creating ASCII art out of deterministic data
+usage: ascii_hash.py archive.tar output.txt [size]
+
+example output:
+```
+# ## # ### # ## #
+ ##  #######  ## 
+## ##  # #  ## ##
+ # #  ## ##  # # 
+# ##  #   #  ## #
+# #### ### #### #
+   ## #   # ##   
+##### #   # #####
+## ##### ##### ##
+## # # # # # # ##
+ ####### ####### 
+######  #  ######
+#  ###  #  ###  #
+# #   #   #   # #
+#  #  ## ##  #  #
+ #### ##### #### 
+ # ########### # 
+```
